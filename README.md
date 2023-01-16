@@ -9,7 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/edward-tan-62635a200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edward-tan-62635a200" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edward-tan-62635a200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edward-tan-62635a200" height="30" width="40" /></a> 
+<a href="https://leetcode.com/edward62740" target="blank"><img align="right" src="https://badges.peiyuan.ch/leetcode/edward62740/ranking?logo=leetcode&label=edward62740&style=for-the-badge&color=green" /></a> 
 <br><br>
 <p align="center">
 <img width="58%" src="https://github-readme-stats.vercel.app/api?username=edward62740&theme=dark&show_icons=true&count_private=true" align = "center"/>
