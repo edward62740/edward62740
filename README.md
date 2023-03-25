@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Edward</h1>
 <h3 align="center">Currently studying computer engineering at NTU. You can find some of my projects here.</h3>
 
-- 🔭 I’m currently working on **low-power IoT systems, with a focus on 6LoWPAN 802.15.4 devices**
+- 🔭 I’m currently working on **low-power IoT systems, with a focus on IPv6 connected devices**
 
 - 🌱 I’m currently learning **Rust and integration of edge AI into sensors**
 
