@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **low-power IoT systems, with a focus on IPv6 connected devices**
 
-- 🌱 I’m currently learning **Rust and integration of edge AI into sensors**
+- 🌱 I’m currently learning **Rust and edge AI**
 
 - 👯 I’m looking to collaborate on **interesting projects, do contact me!** (edward.62740@gmail.com)
 
