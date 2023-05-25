@@ -14,5 +14,5 @@
 <br><br>
 <p align="center">
 <img width="56%" src="https://github-readme-stats.vercel.app/api?username=edward62740&theme=dark&show_icons=true&count_private=true&include_all_commits=true" align = "center"/>
-<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edward62740&hide=makefile,assembly,batchfile,html,cmake,purebasic&layout=compact&theme=dark&show_icons=true&langs_count=10" align = "center"/>
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edward62740&hide=makefile,assembly,batchfile,html,cmake,shell,processing,purebasic&layout=compact&theme=dark&show_icons=true&langs_count=9" align = "center"/>
 </p>
