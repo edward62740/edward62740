@@ -13,6 +13,6 @@
 <a href="https://leetcode.com/edward62740" target="blank"><img align="right" src="https://badges.peiyuan.ch/leetcode/edward62740/ranking?logo=leetcode&label=edward62740&style=for-the-badge&color=green" /></a> 
 <br><br>
 <p align="center">
-<img width="56%" src="https://github-readme-stats.vercel.app/api?username=edward62740&theme=dark&show_icons=true&count_private=true&include_all_commits=true" align = "center"/>
+<img width="56%" src="https://github-readme-stats.vercel.app/api?username=edward62740&theme=dark&show_icons=true&count_private=true" align = "center"/>
 <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edward62740&hide=makefile,assembly,batchfile,html,cmake,shell,processing,purebasic&layout=compact&theme=dark&show_icons=true&langs_count=9" align = "center"/>
 </p>
