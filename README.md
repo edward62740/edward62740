@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Edward</h1>
 <h3 align="center">Currently studying computer engineering at NTU. You can find some of my projects here.</h3>
 
-- 🔭 I’m currently working on **low-power IoT systems, with a focus on IPv6 connected devices**
+- 🔭 I’m currently working on **low-power IoT systems and efficient vision transformers for edge AI**
 
-- 🌱 I’m currently learning **Rust and edge AI**
+- 🌱 I’m currently learning **quantization techniques for low-bit representation of transformer weights**
 
 - 👯 I’m looking to collaborate on **interesting projects, do contact me!** (edward.62740@gmail.com)
 
