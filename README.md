@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **low-power IoT systems and efficient vision transformers for edge AI**
 
-- 🌱 I’m currently learning **quantization techniques for low-bit representation of transformer weights**
+- 🌱 I’m currently learning **quantization techniques for low-bit representation of transformer**
 
 - 👯 I’m looking to collaborate on **interesting projects, do contact me!** (edward.62740@gmail.com)
 
