@@ -1,11 +1,16 @@
 <h1 align="center">Hi, I'm Edward</h1>
 <h3 align="center">Currently studying computer engineering at NTU. You can find some of my projects here.</h3>
 
-- 🔭 I’m currently working on **low-power IoT systems and efficient vision transformers for edge AI**
+🔭 My projects are generally related to the following:
+- Low-power IoT systems such as sensors, gateway devices
+- Wireless networks (i.e. Thread, BLE, Zigbee)
+- Embedded AI, compression techniques and hardware accelerators
 
-- 🌱 I’m currently learning **quantization techniques for low-bit representation of transformer**
+🌱 My current research interests:
+- Hybrid vision transformers on edge devices
+- Spiking neural networks
 
-- 👯 I’m looking to collaborate on **interesting projects, do contact me!** (edward.62740@gmail.com)
+👯 I’m looking to collaborate on **interesting projects, do contact me!** (edward.62740@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
