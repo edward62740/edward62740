@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Edward</h1>
 <h3 align="center">Currently studying computer engineering at NTU. You can find some of my projects here.</h3>
 
-🔭 My projects are generally related to the following:
+🔭 My projects generally involve:
 - Low-power IoT systems such as sensors, gateway devices
 - Wireless networks (i.e. Thread, BLE, Zigbee)
 - Embedded AI, compression techniques and hardware accelerators
+- Mixed signal and RF PCB design, 3D printed enclosures
 
 🌱 My current research interests:
 - Hybrid vision transformers on edge devices
