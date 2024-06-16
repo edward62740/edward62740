@@ -7,9 +7,6 @@
 - Embedded AI, compression techniques and hardware accelerators
 - Mixed signal and RF PCB design, 3D printed enclosures
 
-🌱 My current research interests:
-- Hybrid vision transformers on edge devices
-- Spiking neural networks
 
 👯 I’m looking to collaborate on **interesting projects, do contact me!** (edward.62740@gmail.com)
 
