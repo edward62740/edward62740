@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Edward</h1>
 <h3 align="center">
-  I am an incoming PhD student at the College of Computing and Data Science, NTU (Singapore). <br>
+  I am a PhD student at the College of Computing and Data Science, NTU (Singapore). <br>
   Broadly, my research interests are in efficient edge AI for vision tasks.<br><br>
   <a href="https://edward62740.github.io/" target="_blank">[Academic Site]</a> <a href="https://linkedin.com/in/edward-tan-62635a200" target="_blank">[LinkedIn]</a>
 </h3>
